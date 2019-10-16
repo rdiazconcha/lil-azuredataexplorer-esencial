@@ -1,0 +1,1 @@
+# lil-azuredataexplorer-esencial
